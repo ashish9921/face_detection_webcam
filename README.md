@@ -10,5 +10,5 @@ for run this project to your device you  required some modules given bellow
    4 os
 also you required a webcam  for live detection  
 
-# here i use just two image in this project if you want to add more
+# here i use just two image in this project if you want to add more the just go image directory and add
 # images just add those in webcam Folder
